@@ -23,7 +23,4 @@
 	};
 }
 
-Portas: 8081: movie-catalog-service,
-	      8082: movie-info-service,
-	      8083: ratings-data-service
-        8761: spring-eureka
+Portas: 8081: movie-catalog-service, 8082: movie-info-service, 8083: ratings-data-service 8761: spring-eureka
